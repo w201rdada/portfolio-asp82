@@ -1,25 +1,17 @@
-# My second cool idea {#slug-two}
+# RecipeMate {#Discover what’s for dinner}
 
 #### Keywords
 
-yaba, daba, do
+easy cooking, kitchen management, recipe suggestions
 
 ## A beginning.
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+You come home from a long day at work and open the fridge. “What am I going to make for dinner tonight?” Figuring out what you can make with the assortment of ingredients in your kitchen is a cognitive load you just don’t need in your busy day. That’s where RecipeMate steps in. The product tracks what you have in your fridge and suggests possible recipes that you can make. 
 
 ## A middle.
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
-
-
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
-
-
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
+RecipeMate works by monitoring the contents of its user’s fridge via a small camera the user installs in the fridge. It then feeds the images it captures to a machine learning algorithm. The algorithm has been trained on a vast corpus of images of groceries so it can identify the contents of the fridge. Additionally, it is able to estimate quantities based on the images it captures. The results are then cross-referenced against a database of stored recipes that have been scraped from recipe websites such as allrecipes.com and foodnetwork.com. Results that match are returned to the user via a mobile or tablet application. The user will have the ability to filter the results based on cuisine, length of preparation time, and specific ingredients as well. During profile creation, the user can let RecipeMate know what type of cookware he or she possesses as well as a relative cooking skill level so the app can calibrate the recipes it presents to the user’s capabilities. Recipe websites typically also store user ratings for their recipes. The RecipeMate user can similarly exclude recipes that fall below a certain rating. As the product becomes more mature and has a larger body of user data to pull from, the product could be expanded from both a hardware and software perspective. Additional cameras could be installed to monitor ingredients in the pantry and freezer (the algorithm’s training set would be updated to include ingredients stored in these locations). To better meet user needs, an additional layer of machine learning could be implemented to display recipe results that are most likely to meet the user’s preferences. Capabilities to monitor expiration dates could be added so that the app prioritizes recipes that use ingredients that will expire shortly. The app could also alert the user when food expires and needs to be tossed. 
 
 ## An end.
 
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+The days of scrambling to figure out what’s in the fridge and what to make for dinner are over. RecipeMate enables users to buy the ingredients they want and figure out what to do with them later. Users will no longer stress about what to make for meals and can focus on the more important aspects of their lives.
