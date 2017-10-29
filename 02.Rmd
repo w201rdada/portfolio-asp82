@@ -1,17 +1,17 @@
-# RecipeMate {#Discover what’s for dinner}
+# Discover what’s for dinner {#RecipeMate}
 
 #### Keywords
 
-easy cooking, kitchen management, recipe suggestions
+easy cooking, kitchen management, recipe suggestions, machine learning
 
-## A beginning.
+## You open the fridge and...
 
-You come home from a long day at work and open the fridge. “What am I going to make for dinner tonight?” Figuring out what you can make with the assortment of ingredients in your kitchen is a cognitive load you just don’t need in your busy day. That’s where RecipeMate steps in. The product tracks what you have in your fridge and suggests possible recipes that you can make. 
+You come home from a long day at work and open the fridge. “What am I going to make for dinner tonight?” Figuring out what you can make with the assortment of ingredients in your kitchen is a cognitive load you just don’t need in your busy day. That’s where RecipeMate steps in to help the everyday consumer. The product tracks what you have in your fridge and suggests possible recipes that you can make. 
 
-## A middle.
+## Dinner made easy!
 
 RecipeMate works by monitoring the contents of its user’s fridge via a small camera the user installs in the fridge. It then feeds the images it captures to a machine learning algorithm. The algorithm has been trained on a vast corpus of images of groceries so it can identify the contents of the fridge. Additionally, it is able to estimate quantities based on the images it captures. The results are then cross-referenced against a database of stored recipes that have been scraped from recipe websites such as allrecipes.com and foodnetwork.com. Results that match are returned to the user via a mobile or tablet application. The user will have the ability to filter the results based on cuisine, length of preparation time, and specific ingredients as well. During profile creation, the user can let RecipeMate know what type of cookware he or she possesses as well as a relative cooking skill level so the app can calibrate the recipes it presents to the user’s capabilities. Recipe websites typically also store user ratings for their recipes. The RecipeMate user can similarly exclude recipes that fall below a certain rating. As the product becomes more mature and has a larger body of user data to pull from, the product could be expanded from both a hardware and software perspective. Additional cameras could be installed to monitor ingredients in the pantry and freezer (the algorithm’s training set would be updated to include ingredients stored in these locations). To better meet user needs, an additional layer of machine learning could be implemented to display recipe results that are most likely to meet the user’s preferences. Capabilities to monitor expiration dates could be added so that the app prioritizes recipes that use ingredients that will expire shortly. The app could also alert the user when food expires and needs to be tossed. 
 
-## An end.
+## Guess who's coming to dinner
 
-The days of scrambling to figure out what’s in the fridge and what to make for dinner are over. RecipeMate enables users to buy the ingredients they want and figure out what to do with them later. Users will no longer stress about what to make for meals and can focus on the more important aspects of their lives.
+With RecipeMate as a part of the household, the days of scrambling to figure out what’s in the fridge and what to make for dinner are over. RecipeMate enables users to buy the ingredients they want and figure out what to do with them later. Users will no longer stress about what to make for meals and can focus on the more important aspects of their lives.
