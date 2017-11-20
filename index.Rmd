@@ -1,10 +1,6 @@
 ---
 title: "W201 Portfolio"
-<<<<<<< HEAD
-author: "Akhil Patel""
-=======
 author: "Akhil Patel"
->>>>>>> 15eaf1ce532dce76d4587d68dd712432a23b9ea3
 date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
@@ -22,10 +18,6 @@ library(magrittr)
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/hello-world.png')
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> 15eaf1ce532dce76d4587d68dd712432a23b9ea3
 Thanks for checking out my site.
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
