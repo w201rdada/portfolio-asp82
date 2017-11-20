@@ -1,10 +1,6 @@
 ---
 title: "W201 Portfolio"
-<<<<<<< HEAD
-author: "Akhil Patel""
-=======
 author: "Akhil Patel"
->>>>>>> 15eaf1ce532dce76d4587d68dd712432a23b9ea3
 date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
