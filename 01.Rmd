@@ -1,4 +1,4 @@
-### The Diamond DataMine: Using Data to Find the Perfect Diamond {#piece-of-mine}
+# The Diamond DataMine: Using Data to Find the Perfect Diamond {#piece-of-mine}
 
 #### Keywords
 
