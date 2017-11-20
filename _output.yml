@@ -13,11 +13,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/asp82" target="blank">GitHub</a></li>
         <li><a href="https://www.ischool.berkeley.edu/people/akhil-patel" target="blank">UC Berkeley</a></li>
-<<<<<<< HEAD
-        <li><a href="https://www.linkedin.com/in/asp82/" target="blank">LinkedIn</a></li>
-=======
-        <li><a href="https://www.linkedin.com/in/asp82/" target="blank">LinkedIn</a></li>    
->>>>>>> 15eaf1ce532dce76d4587d68dd712432a23b9ea3
+        <li><a href="https://www.linkedin.com/in/akhil-patel-b4431639/" target="blank">LinkedIn</a></li>    
     sharing:
       facebook: no
       twitter: no
