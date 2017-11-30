@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# Welcome!{-}
+# Welcome!
 
 Thanks for checking out my site.
 
@@ -22,15 +22,15 @@ Thanks for checking out my site.
 knitr::include_url('https://drive.google.com/open?id=1hxb3yvat-hta8wTEA05RqBgJOi1gPEGi/preview')
 ```
 
-### Abstract: Discover What's For Dinner - RecipeMate{-}
+### Abstract: Discover What's For Dinner - RecipeMate
 
 People spend almost 4 hours per week deciding what to eat. Imagine a world where people didn't have to waste so much time on such a mundane task. That's the future RecipeMate envisions. RecipeMate monitors the ingredients stored in a user's kitchen (fridge, freezer, pantry) and uploads it to an application that users interact with to choose recipes that can be made using the ingredients the user already owns. No more trying to figure out what's already in your fridge - RecipeMate simplifies the process! Additionally, RecipeMate will keep track of food expiration dates and suggest recipes that utilize foods close to their expiration dates to help its users reduce their food waste. Users can also pick recipes they want to cook, and RecipeMate will determine which ingredients the user is missing and needs to purchase. RecipeMate facilitates kitchen inventory management and meal planning for the digital age.
 
-### Abstract: The Diamond DataMine{-}
+### Abstract: The Diamond DataMine
 
 Every year, about $5 billion is spent on engagement rings. Most of these purchases are by first-time buyers. As anyone who has been through the process can attest, finding the right ring is a stressful endeavor. Diamonds are expensive, the purchase carries a large emotional value/risk, and diamonds have many factors that contribute to their valuations, making understanding the market a complex task. The Diamond DataMine seeks to ease the stress of diamond buying by making the value of a diamond more transparent. Users of its web platform can specify several desired criteria (e.g. carat size, diamond shape, price range) and then receive back results curated from other online retailers, each with a value score that balances the actual worth of the diamond (based on a large body of real diamond appraisals) with the cost it's being sold for. Users of the site can rest assured they are making the optimal purchasing decision for their needs.
 
-## About the author{-}
+## About the author
 
 I work in New Jersey as an operations manager for McMaster-Carr, an industrial parts distributor. Previously, I worked as an engineer for GlobalFoundries, a semiconductor manufacturer, in upstate NY. I grew up in Wisconsin and am a big Green Bay Packers fan!
 
